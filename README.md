@@ -1,4 +1,9 @@
 # AppNotTests
+```
+  ng new App --skip-tests
+```
+
+**Note:** *--skip-test prevents the angular-cli from generating the spec files (files for testing)*
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.5.
 
